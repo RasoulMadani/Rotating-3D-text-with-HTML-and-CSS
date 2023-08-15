@@ -12,9 +12,10 @@ main {
   justify-content: center;
   align-items: center;
   background: #5138be;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 main > .steps {
-  width: 1200px;
   transform: rotate3d(18, 10, -12, 83deg);
   transform-style: preserve-3d;
 }

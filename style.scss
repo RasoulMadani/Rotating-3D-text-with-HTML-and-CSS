@@ -10,8 +10,12 @@ main {
   justify-content: center;
   align-items: center;
   background: #5138be;
+//   background-image: url(./img/ghasem.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+//   background-position:;
   >.steps{
-    width: 1200px;
+    // width: 1200px;
     // border: 1px solid black;
     transform: rotate3d(18,10,-12,83deg);
     transform-style: preserve-3d;
